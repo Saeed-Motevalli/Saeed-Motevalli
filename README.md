@@ -1,6 +1,6 @@
 # Hi, I'm Saeed Motevalli 👋
 
-### Junior Front-End Developer 💻
+### Front-End Developer 💻
 
 I am a Front-End Developer passionate about building modern, responsive, and user-friendly web applications.
 
